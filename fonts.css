@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'InstrumentSerif-Regular';
+    src: url('InstrumentSerif-Regular.ttf') format('ttf'),
+        font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Futura Now';
+    src: url('FuturaNowText-Lt.ttf') format('ttf'),
+        font-weight: normal;
+    font-style: normal;
+}
